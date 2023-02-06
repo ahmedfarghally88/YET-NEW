@@ -416,15 +416,19 @@ footer {
     background-color: #fff;
 }
 footer a, footer p, footer li {
-    color: #000;
+    color: #a30e0e;
 }
 footer .footer-upper .footer-links ul li a {
     color: #000;
 }
-footer .footer-payment {
-    background: #ddd;
+footer .footer-payment .container{
+    border-top:1px solid #ddd;
 }
 
 .partners {
-    background: #1c84b0;
+    background: #a30e0e;
+}
+
+h2.call-name{
+    color:#1c84b0;
 }
